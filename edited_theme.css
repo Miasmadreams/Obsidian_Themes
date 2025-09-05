@@ -1611,7 +1611,7 @@ settings:
         format: hsl
         opacity: true
         default-light: 'hsla(4, 56%, 48%, 1)'
-        default-dark: 'hsla(4, 88%, 61%, 1)'
+        default-dark: 'hsla(32, 48%, 85%, 1)'
     -
         id: bold-weight
         type: variable-number
@@ -1624,7 +1624,7 @@ settings:
         format: hsl
         opacity: true
         default-light: 'hsla(200, 64%, 37%, 1)'
-        default-dark: 'hsla(194, 59%, 56%, 1)'
+        default-dark: 'hsla(32, 48%, 85%, 1)'
     -
         id: strikethrough-color
         type: variable-themed-color
@@ -1632,7 +1632,7 @@ settings:
         format: hsl
         opacity: true
         default-light: 'hsla(34, 29%, 60%, 1)'
-        default-dark: 'hsla(34, 24%, 40%, 1)'
+        default-dark: 'hsla(32, 48%, 85%, 1)'
     -
         id: underline-color
         type: variable-themed-color
@@ -1641,7 +1641,7 @@ settings:
         format: hsl
         opacity: true
         default-light: 'hsla(31, 45%, 24%, 1)'
-        default-dark: 'hsla(34, 39%, 74%, 1)'
+        default-dark: 'hsla(32, 48%, 85%, 1)'
     -
         id: underline-decoration-opacity
         type: variable-text
@@ -1668,7 +1668,7 @@ settings:
         format: hsl
         opacity: true
         default-light: 'hsla(31, 23%, 50%, 1)'
-        default-dark: 'hsla(35, 27%, 55%, 1)'
+        default-dark: 'hsla(32, 48%, 85%, 1)'
 	-
 		id: nf_highlight
 		type: heading
@@ -1706,7 +1706,7 @@ settings:
         format: hsl
         opacity: true
         default-light: 'hsla(350, 84%, 63%, 0.2)'
-        default-dark: 'hsla(350, 84%, 63%, 0.2)'
+        default-dark: 'hsla(44, 100%, 50%, 0.2)'
     -
         id: italic-highlight-color
         type: variable-themed-color
@@ -1722,7 +1722,7 @@ settings:
         format: hsl
         opacity: true
         default-light: 'hsla(186, 64%, 46%, 0.2)'
-        default-dark: 'hsla(186, 64%, 46%, 0.2)'
+        default-dark: 'hsla(44, 100%, 50%, 0.2)'
     -
         id: strikethrough-highlight-color
         type: variable-themed-color
@@ -1730,7 +1730,7 @@ settings:
         format: hsl
         opacity: true
         default-light: 'hsla(34, 29%, 60%, 1)'
-        default-dark: 'hsla(34, 24%, 40%, 1)'
+        default-dark: 'hsla(34, 39%, 74%, 1)'
     -
         id: strikethrough-highlight-bg
         type: variable-themed-color
@@ -1754,7 +1754,7 @@ settings:
         format: hsl
         opacity: true
         default-light: 'hsla(74, 69%, 44%, 0.2)'
-        default-dark: 'hsla(74, 69%, 44%, 0.2)'
+        default-dark: 'hsla(44, 100%, 50%, 0.2)'
 	-
 		id: nf_link
 		type: heading
